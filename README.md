@@ -1,2 +1,2 @@
 # Tomgame
-Kedi Tom'u yakala APP
+Kedi Tom'u bul APP
